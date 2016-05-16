@@ -32,7 +32,7 @@
   </registry>
   <node concept="1TIwiD" id="5Er1cLptfts">
     <property role="1pbfSe" value="1274020824" />
-    <property role="TrG5h" value="NodeWithImage" />
+    <property role="TrG5h" value="NodeWithJComponentCell" />
     <property role="19KtqR" value="true" />
     <ref role="1TJDcQ" node="57KPvgX1iqg" resolve="NodeWith" />
   </node>
@@ -52,6 +52,12 @@
     <node concept="PrWs8" id="57KPvgX1iqx" role="PzmwI">
       <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
     </node>
+  </node>
+  <node concept="1TIwiD" id="38hB4YRTH12">
+    <property role="1pbfSe" value="369595247" />
+    <property role="TrG5h" value="NodeWithImageCell" />
+    <property role="19KtqR" value="true" />
+    <ref role="1TJDcQ" node="57KPvgX1iqg" resolve="NodeWith" />
   </node>
 </model>
 
