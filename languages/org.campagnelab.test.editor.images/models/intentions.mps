@@ -34,6 +34,9 @@
       <concept id="1070475926800" name="jetbrains.mps.baseLanguage.structure.StringLiteral" flags="nn" index="Xl_RD">
         <property id="1070475926801" name="value" index="Xl_RC" />
       </concept>
+      <concept id="1070533707846" name="jetbrains.mps.baseLanguage.structure.StaticFieldReference" flags="nn" index="10M0yZ">
+        <reference id="1144433057691" name="classifier" index="1PxDUh" />
+      </concept>
       <concept id="1070534058343" name="jetbrains.mps.baseLanguage.structure.NullLiteral" flags="nn" index="10Nm6u" />
       <concept id="1068431474542" name="jetbrains.mps.baseLanguage.structure.VariableDeclaration" flags="ng" index="33uBYm">
         <property id="1176718929932" name="isFinal" index="3TUv4t" />
@@ -59,6 +62,9 @@
       </concept>
       <concept id="1068580123137" name="jetbrains.mps.baseLanguage.structure.BooleanConstant" flags="nn" index="3clFbT">
         <property id="1068580123138" name="value" index="3clFbU" />
+      </concept>
+      <concept id="1068580320020" name="jetbrains.mps.baseLanguage.structure.IntegerConstant" flags="nn" index="3cmrfG">
+        <property id="1068580320021" name="value" index="3cmrfH" />
       </concept>
       <concept id="1068581242864" name="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" flags="nn" index="3cpWs8">
         <child id="1068581242865" name="localVariableDeclaration" index="3cpWs9" />
@@ -135,7 +141,7 @@
               <node concept="2ShNRf" id="57KPvgX0DFV" role="37vLTx">
                 <node concept="1pGfFk" id="57KPvgX0DFW" role="2ShVmc">
                   <ref role="37wK5l" to="7a0s:2qx2hw9gxhG" resolve="HeadlessEditorComponent" />
-                  <node concept="2Sf5sV" id="57KPvgX0DFX" role="37wK5m" />
+                  <node concept="10Nm6u" id="7npQjEnTgEe" role="37wK5m" />
                   <node concept="2OqwBi" id="57KPvgX0DFY" role="37wK5m">
                     <node concept="2JrnkZ" id="57KPvgX0DFZ" role="2Oq$k0">
                       <node concept="2OqwBi" id="57KPvgX0DG0" role="2JrQYb">
@@ -152,6 +158,42 @@
               <node concept="37vLTw" id="57KPvgX0DG4" role="37vLTJ">
                 <ref role="3cqZAo" node="57KPvgX0DFS" resolve="editorComponent" />
               </node>
+            </node>
+          </node>
+        </node>
+        <node concept="3clFbF" id="7npQjEnTlzo" role="3cqZAp">
+          <node concept="2OqwBi" id="7npQjEnTlDz" role="3clFbG">
+            <node concept="37vLTw" id="7npQjEnTlzm" role="2Oq$k0">
+              <ref role="3cqZAo" node="57KPvgX0DFS" resolve="editorComponent" />
+            </node>
+            <node concept="liA8E" id="7npQjEnTpAt" role="2OqNvi">
+              <ref role="37wK5l" to="dxuu:~JComponent.setFont(java.awt.Font):void" resolve="setFont" />
+              <node concept="2ShNRf" id="7npQjEnSH5u" role="37wK5m">
+                <node concept="1pGfFk" id="7npQjEnSPg0" role="2ShVmc">
+                  <ref role="37wK5l" to="z60i:~Font.&lt;init&gt;(java.lang.String,int,int)" resolve="Font" />
+                  <node concept="Xl_RD" id="7npQjEnSPw7" role="37wK5m">
+                    <property role="Xl_RC" value="Courier New" />
+                  </node>
+                  <node concept="10M0yZ" id="7npQjEnSQ2t" role="37wK5m">
+                    <ref role="1PxDUh" to="z60i:~Font" resolve="Font" />
+                    <ref role="3cqZAo" to="z60i:~Font.PLAIN" resolve="PLAIN" />
+                  </node>
+                  <node concept="3cmrfG" id="7npQjEnSQoA" role="37wK5m">
+                    <property role="3cmrfH" value="10" />
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node concept="3clFbF" id="7npQjEnTgJn" role="3cqZAp">
+          <node concept="2OqwBi" id="7npQjEnTgP8" role="3clFbG">
+            <node concept="37vLTw" id="7npQjEnTgJl" role="2Oq$k0">
+              <ref role="3cqZAo" node="57KPvgX0DFS" resolve="editorComponent" />
+            </node>
+            <node concept="liA8E" id="7npQjEnTkLH" role="2OqNvi">
+              <ref role="37wK5l" to="exr9:~EditorComponent.editNode(org.jetbrains.mps.openapi.model.SNode):void" resolve="editNode" />
+              <node concept="2Sf5sV" id="7npQjEnTkQW" role="37wK5m" />
             </node>
           </node>
         </node>

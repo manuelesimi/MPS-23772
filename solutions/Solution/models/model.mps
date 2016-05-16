@@ -19,7 +19,7 @@
   <node concept="3VZeg" id="4KCLE$01ViR">
     <property role="TrG5h" value="NodeWithImage" />
   </node>
-  <node concept="2ulcR8" id="581iXpuZ5aA">
+  <node concept="2ulcR8" id="7npQjEnTf0J">
     <property role="TrG5h" value="NodeWithIcon" />
   </node>
 </model>

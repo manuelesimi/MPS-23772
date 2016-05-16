@@ -5,9 +5,7 @@
       <sourceRoot location="models" />
     </modelRoot>
   </models>
-  <accessoryModels>
-    <model modelUID="r:d74f2f7e-2816-4fd7-af86-7bd21e33c1eb(org.campagnelab.icons.swing)" />
-  </accessoryModels>
+  <accessoryModels />
   <generators>
     <generator generatorUID="org.campagnelab.test.editor.images#6528817360524340926" uuid="e241d81e-f7e7-4c58-ba31-6f4dbcd7539e">
       <models>
