@@ -11,6 +11,7 @@
   <registry>
     <language id="c72da2b9-7cce-4447-8389-f407dc1158b7" name="jetbrains.mps.lang.structure">
       <concept id="1169125787135" name="jetbrains.mps.lang.structure.structure.AbstractConceptDeclaration" flags="ig" index="PkWjJ">
+        <property id="4628067390765956807" name="final" index="R5$K2" />
         <property id="4628067390765956802" name="abstract" index="R5$K7" />
         <property id="1587916991969465369" name="conceptId" index="1pbfSe" />
       </concept>
@@ -33,18 +34,22 @@
     <property role="1pbfSe" value="1274020824" />
     <property role="TrG5h" value="NodeWithImage" />
     <property role="19KtqR" value="true" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
-    <node concept="PrWs8" id="5Er1cLptfu6" role="PzmwI">
-      <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
-    </node>
+    <ref role="1TJDcQ" node="57KPvgX1iqg" resolve="NodeWith" />
   </node>
   <node concept="1TIwiD" id="6tX5nBTatyL">
     <property role="TrG5h" value="NodeWithIcon" />
     <property role="19KtqR" value="true" />
     <property role="R5$K7" value="false" />
     <property role="1pbfSe" value="1621552682" />
+    <ref role="1TJDcQ" node="57KPvgX1iqg" resolve="NodeWith" />
+  </node>
+  <node concept="1TIwiD" id="57KPvgX1iqg">
+    <property role="1pbfSe" value="1896481660" />
+    <property role="TrG5h" value="NodeWith" />
+    <property role="R5$K7" value="true" />
+    <property role="R5$K2" value="false" />
     <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
-    <node concept="PrWs8" id="6tX5nBTayDp" role="PzmwI">
+    <node concept="PrWs8" id="57KPvgX1iqx" role="PzmwI">
       <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
     </node>
   </node>
