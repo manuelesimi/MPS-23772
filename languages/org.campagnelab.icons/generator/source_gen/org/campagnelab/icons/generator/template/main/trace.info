@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info>
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <root>
+    <file name="QueriesGenerated.java">
+      <unit at="10,0,16,0" name="org.campagnelab.icons.generator.template.main.QueriesGenerated" />
+    </file>
+  </root>
+  <root nodeRef="r:1a305e9f-d8d0-4f6d-b96b-64bea0b4b899(org.campagnelab.icons.generator.template.main@generator)/3573919104356948425">
+    <file name="QueriesGenerated.java">
+      <node id="3573919104357096172" at="12,112,13,189" concept="0" />
+      <scope id="3573919104357096171" at="12,112,13,189" />
+    </file>
+  </root>
+</debug-info>
+

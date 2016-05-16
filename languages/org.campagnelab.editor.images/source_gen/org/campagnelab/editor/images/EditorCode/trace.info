@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info>
+  <concept fqn="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.BreakStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.FieldDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.Statement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.SwitchStatement" />
+  <root nodeRef="r:daca92ca-e9ce-48ae-833b-4f2157fecb32(org.campagnelab.editor.images.EditorCode)/5058245606295259395">
+    <file name="EditorCell_RefreshableImage.java">
+      <node id="5058245606295483215" at="27,0,28,0" concept="4" trace="sourceFileName" />
+      <node id="5058245606295507970" at="28,0,29,0" concept="4" trace="sourceImage" />
+      <node id="5058245606295779556" at="31,0,32,0" concept="4" trace="myAlignment" />
+      <node id="5058245606295779561" at="32,0,33,0" concept="4" trace="myImage" />
+      <node id="5058245606295779569" at="33,0,34,0" concept="4" trace="myDescent" />
+      <node id="5058245606295907909" at="37,95,38,60" concept="7" />
+      <node id="5058245606295907915" at="38,60,39,48" concept="7" />
+      <node id="5058245606296459172" at="45,33,46,51" concept="3" />
+      <node id="5058245606296427172" at="50,11,51,0" concept="10" />
+      <node id="5058245606295907955" at="52,7,53,18" concept="8" />
+      <node id="5058245606295771163" at="58,82,59,31" concept="12" />
+      <node id="5058245606295770709" at="59,31,60,59" concept="3" />
+      <node id="5058245606295770715" at="60,59,61,60" concept="3" />
+      <node id="5058245606295263559" at="64,124,65,94" concept="7" />
+      <node id="5058245606295518680" at="65,94,66,64" concept="3" />
+      <node id="5058245606295263564" at="66,64,67,51" concept="3" />
+      <node id="5058245606295263569" at="67,51,68,18" concept="8" />
+      <node id="5058245606295263582" at="71,115,72,94" concept="7" />
+      <node id="5058245606296049858" at="72,94,73,31" concept="3" />
+      <node id="5058245606295263587" at="73,31,74,27" concept="3" />
+      <node id="5058245606295263590" at="74,27,75,18" concept="8" />
+      <node id="5058245606295434645" at="79,71,80,24" concept="3" />
+      <node id="5058245606295830864" at="80,24,81,24" concept="9" />
+      <node id="5058245606295512085" at="82,30,83,33" concept="3" />
+      <node id="5058245606295497220" at="84,12,85,49" concept="3" />
+      <node id="5058245606295831333" at="86,5,87,25" concept="9" />
+      <node id="5058245606295856679" at="87,25,88,43" concept="3" />
+      <node id="5058245606295838249" at="92,26,93,13" concept="8" />
+      <node id="5058245606295838259" at="96,19,97,71" concept="3" />
+      <node id="5058245606295838267" at="97,71,98,14" concept="1" />
+      <node id="5058245606295838274" at="100,9,101,70" concept="7" />
+      <node id="5058245606295838286" at="101,70,102,72" concept="7" />
+      <node id="5058245606295838297" at="102,72,103,50" concept="3" />
+      <node id="5058245606295838303" at="103,50,104,16" concept="1" />
+      <node id="5058245606295838307" at="106,17,107,14" concept="0" />
+      <node id="5058245606295838309" at="106,17,107,14" concept="1" />
+      <node id="5058245606295439045" at="113,71,114,68" concept="7" />
+      <node id="5058245606295439049" at="114,68,115,86" concept="8" />
+      <node id="5058245606295439067" at="117,64,118,39" concept="7" />
+      <node id="5058245606295439080" at="119,67,120,37" concept="8" />
+      <node id="5058245606295439086" at="121,12,122,18" concept="8" />
+      <node id="5058245606295799345" at="129,26,130,13" concept="8" />
+      <node id="5058245606295799354" at="132,65,133,51" concept="7" />
+      <node id="5058245606295799365" at="134,24,135,24" concept="3" />
+      <node id="5058245606295799370" at="136,7,137,53" concept="7" />
+      <node id="5058245606295799381" at="138,25,139,26" concept="3" />
+      <node id="5058245606295799390" at="144,26,145,35" concept="8" />
+      <node id="5058245606295799399" at="148,27,149,44" concept="8" />
+      <node id="5058245606295799412" at="151,39,152,24" concept="3" />
+      <node id="5058245606295799422" at="154,71,155,28" concept="3" />
+      <node id="5058245606295799445" at="158,88,159,63" concept="3" />
+      <node id="5058245606295783989" at="164,40,165,20" concept="3" />
+      <node id="5058245606295517980" at="84,10,86,5" concept="0" />
+      <node id="5058245606295838257" at="96,19,98,14" concept="0" />
+      <node id="5058245606295439084" at="121,10,123,5" concept="0" />
+      <node id="5058245606296458231" at="45,0,48,0" concept="6" trace="run#()V" />
+      <node id="5058245606295838245" at="91,74,94,5" concept="5" />
+      <node id="5058245606295799341" at="128,33,131,5" concept="5" />
+      <node id="5058245606295799358" at="133,51,136,7" concept="5" />
+      <node id="5058245606295799374" at="137,53,140,7" concept="5" />
+      <node id="5058245606295799408" at="151,0,154,0" concept="6" trace="setDescent#(I)V" />
+      <node id="5058245606295799418" at="154,0,157,0" concept="6" trace="setAlignment#(Ljetbrains/mps/nodeEditor/cells/EditorCell_Image/ImageAlignment;)V" />
+      <node id="5058245606295799432" at="157,52,160,5" concept="5" />
+      <node id="5058245606295783985" at="164,0,167,0" concept="6" trace="setImage#(Ljava/awt/Image;)V" />
+      <node id="5058245606295439038" at="113,0,117,0" concept="11" trace="expandIconPath#(Ljava/lang/String;Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+      <node id="5058245606295799387" at="143,0,147,0" concept="6" trace="getAscent#()I" />
+      <node id="5058245606295799396" at="147,0,151,0" concept="6" trace="getDescent#()I" />
+      <node id="5058245606296429536" at="43,29,48,15" concept="3" />
+      <node id="5058245606295263527" at="58,0,63,0" concept="2" trace="EditorCell_RefreshableImage#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <node id="5058245606295511053" at="81,24,86,5" concept="5" />
+      <node id="5058245606295439070" at="118,39,123,5" concept="5" />
+      <node id="5058245606295799428" at="157,0,162,0" concept="6" trace="setImageFileName#(Ljava/lang/String;)V" />
+      <node id="5058245606295263550" at="64,0,70,0" concept="11" trace="createImageCell#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)Lorg/campagnelab/editor/images/EditorCode/EditorCell_RefreshableImage;" />
+      <node id="5058245606295263573" at="71,0,77,0" concept="11" trace="createImageCell#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;Ljava/awt/Image;)Lorg/campagnelab/editor/images/EditorCode/EditorCell_RefreshableImage;" />
+      <node id="5058245606295838271" at="99,18,105,9" concept="0" />
+      <node id="5058245606296427386" at="42,0,50,0" concept="6" trace="run#()V" />
+      <node id="5058245606295439062" at="117,0,125,0" concept="11" trace="findAnchorModule#(Lorg/jetbrains/mps/openapi/model/SModel;)Ljetbrains/mps/project/AbstractModule;" />
+      <node id="5058245606296427349" at="40,17,50,11" concept="3" />
+      <node id="5058245606295799347" at="131,5,141,5" concept="5" />
+      <node id="5058245606295263594" at="78,0,90,0" concept="6" trace="paintContent#(Ljava/awt/Graphics;Ljetbrains/mps/nodeEditor/cells/ParentSettings;)V" />
+      <node id="5058245606295907923" at="39,48,52,7" concept="5" />
+      <node id="5058245606295838252" at="94,5,109,5" concept="13" />
+      <node id="5058245606295799338" at="127,0,143,0" concept="6" trace="relayoutImpl#()V" />
+      <node id="5058245606295907893" at="36,0,55,0" concept="6" trace="imageUpdate#(Ljava/awt/Image;IIIII)Z" />
+      <node id="5058245606295838239" at="91,0,111,0" concept="6" trace="repaintContent#(Ljava/awt/Graphics;Ljetbrains/mps/nodeEditor/cells/ParentSettings;)V" />
+      <node id="5058245606295907886" at="35,0,56,0" concept="4" trace="mySizeObserver" />
+      <scope id="5058245606295838253" at="108,14,108,14" />
+      <scope id="5058245606296458235" at="45,33,46,51" />
+      <scope id="5058245606295511056" at="82,30,83,33" />
+      <scope id="5058245606295517981" at="84,12,85,49" />
+      <scope id="5058245606295838250" at="92,26,93,13" />
+      <scope id="5058245606295838306" at="106,17,107,14" />
+      <scope id="5058245606295838308" at="106,17,107,14" />
+      <scope id="5058245606295439079" at="119,67,120,37" />
+      <scope id="5058245606295439085" at="121,12,122,18" />
+      <scope id="5058245606295799346" at="129,26,130,13" />
+      <scope id="5058245606295799364" at="134,24,135,24" />
+      <scope id="5058245606295799380" at="138,25,139,26" />
+      <scope id="5058245606295799389" at="144,26,145,35" />
+      <scope id="5058245606295799398" at="148,27,149,44" />
+      <scope id="5058245606295799411" at="151,39,152,24" />
+      <scope id="5058245606295799421" at="154,71,155,28" />
+      <scope id="5058245606295799444" at="158,88,159,63" />
+      <scope id="5058245606295783988" at="164,40,165,20" />
+      <scope id="5058245606295838256" at="96,19,98,14" />
+      <scope id="5058245606295838258" at="96,19,98,14" />
+      <scope id="5058245606295439043" at="113,71,115,86">
+        <var name="module" id="5058245606295439044" />
+      </scope>
+      <scope id="5058245606296458231" at="45,0,48,0" />
+      <scope id="5058245606295263533" at="58,82,61,60" />
+      <scope id="5058245606295799408" at="151,0,154,0">
+        <var name="descent" id="5058245606295799409" />
+      </scope>
+      <scope id="5058245606295799418" at="154,0,157,0">
+        <var name="alignment" id="5058245606295799419" />
+      </scope>
+      <scope id="5058245606295799431" at="157,52,160,5" />
+      <scope id="5058245606295783985" at="164,0,167,0">
+        <var name="image" id="5058245606295783986" />
+      </scope>
+      <scope id="5058245606295263557" at="64,124,68,18">
+        <var name="result" id="5058245606295263558" />
+      </scope>
+      <scope id="5058245606295263580" at="71,115,75,18">
+        <var name="result" id="5058245606295263581" />
+      </scope>
+      <scope id="5058245606295838272" at="100,9,104,16">
+        <var name="x" id="5058245606295838273" />
+        <var name="y" id="5058245606295838285" />
+      </scope>
+      <scope id="5058245606295439038" at="113,0,117,0">
+        <var name="path" id="5058245606295439039" />
+        <var name="sourceNode" id="5058245606295439041" />
+      </scope>
+      <scope id="5058245606295799387" at="143,0,147,0" />
+      <scope id="5058245606295799396" at="147,0,151,0" />
+      <scope id="5058245606296427388" at="43,29,48,15" />
+      <scope id="5058245606295263527" at="58,0,63,0">
+        <var name="editorContext" id="5058245606295263529" />
+        <var name="node" id="5058245606295263531" />
+      </scope>
+      <scope id="5058245606295799428" at="157,0,162,0">
+        <var name="fileName" id="5058245606295799429" />
+      </scope>
+      <scope id="5058245606295263550" at="64,0,70,0">
+        <var name="editorContext" id="5058245606295263551" />
+        <var name="imageFileName" id="5058245606295263555" />
+        <var name="node" id="5058245606295263553" />
+      </scope>
+      <scope id="5058245606295263573" at="71,0,77,0">
+        <var name="editorContext" id="5058245606295263574" />
+        <var name="image" id="5058245606295263578" />
+        <var name="node" id="5058245606295263576" />
+      </scope>
+      <scope id="5058245606295838270" at="99,18,105,9" />
+      <scope id="5058245606295439065" at="117,64,123,5">
+        <var name="module" id="5058245606295439066" />
+      </scope>
+      <scope id="5058245606296427386" at="42,0,50,0" />
+      <scope id="5058245606295439062" at="117,0,125,0">
+        <var name="model" id="5058245606295439063" />
+      </scope>
+      <scope id="5058245606295799352" at="132,65,140,7">
+        <var name="height" id="5058245606295799369" />
+        <var name="width" id="5058245606295799353" />
+      </scope>
+      <scope id="5058245606295263600" at="79,71,88,43" />
+      <scope id="5058245606295907926" at="40,17,51,0" />
+      <scope id="5058245606295263594" at="78,0,90,0">
+        <var name="g" id="5058245606295263596" />
+        <var name="parentSettings" id="5058245606295263598" />
+      </scope>
+      <scope id="5058245606295799340" at="128,33,141,5" />
+      <scope id="5058245606295907907" at="37,95,53,18">
+        <var name="done" id="5058245606295907914" />
+        <var name="mask" id="5058245606295907908" />
+      </scope>
+      <scope id="5058245606295799338" at="127,0,143,0" />
+      <scope id="5058245606295838244" at="91,74,109,5" />
+      <scope id="5058245606295907893" at="36,0,55,0">
+        <var name="height" id="5058245606295907905" />
+        <var name="img" id="5058245606295907895" />
+        <var name="infoflags" id="5058245606295907897" />
+        <var name="width" id="5058245606295907903" />
+        <var name="x" id="5058245606295907899" />
+        <var name="y" id="5058245606295907901" />
+      </scope>
+      <scope id="5058245606295838239" at="91,0,111,0">
+        <var name="g" id="5058245606295838240" />
+        <var name="parentSettings" id="5058245606295838242" />
+      </scope>
+      <unit id="5058245606296458229" at="44,53,48,13" name="org.campagnelab.editor.images.EditorCode.EditorCell_RefreshableImage$3" />
+      <unit id="5058245606296427384" at="41,39,50,9" name="org.campagnelab.editor.images.EditorCode.EditorCell_RefreshableImage$2" />
+      <unit id="5058245606295907891" at="35,45,55,3" name="org.campagnelab.editor.images.EditorCode.EditorCell_RefreshableImage$1" />
+      <unit id="5058245606295259395" at="25,0,170,0" name="org.campagnelab.editor.images.EditorCode.EditorCell_RefreshableImage" />
+    </file>
+  </root>
+</debug-info>
+

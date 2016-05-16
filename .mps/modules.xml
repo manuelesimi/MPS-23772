@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/org.campagnelab.editor.images/org.campagnelab.editor.images.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/org.campagnelab.icons/org.campagnelab.icons.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/org.campagnelab.test.editor.images/org.campagnelab.test.editor.images.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/Solution/Solution.msd" folder="" />
+    </projectModules>
+  </component>
+</project>

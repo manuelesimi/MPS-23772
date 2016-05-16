@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="org.campagnelab.icons.swing.IconAdapter" file="IconAdapter.java">
+    <classNode dependClassName="java.awt.Dimension" />
+    <classNode dependClassName="java.awt.Graphics" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="javax.swing.Icon" />
+    <classNode extendsClassName="javax.swing.JComponent" />
+  </dependency>
+</dependenciesRoot>
+
